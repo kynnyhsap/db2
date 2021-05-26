@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<root>
+	<product>
+		<description>Xiaomi Redmi 9 4/64GB Carbon Grey</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/1/j12ac8_1.jpg</image>
+		<price>4 299  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Redmi Note 9 4/128GB Forest Green</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/f/i/file_1738.jpg</image>
+		<price>5 299  ₴ </price>
+	</product>
+	<product>
+		<description>Poco F3 6/128 Arctic White</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/5/6/5675673456345345_1.jpg</image>
+		<price>11 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11 Lite 6/128GB Bubblegum Blue</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/3/4/345345345_2_1.jpg</image>
+		<price>8 999  ₴ </price>
+	</product>
+	<product>
+		<description>Samsung Galaxy A72 6/128GB Black (SM-A725FZKDSEK)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/2/3/234234234_4_2_1.jpg</image>
+		<price>12 999  ₴ </price>
+	</product>
+	<product>
+		<description>Samsung Galaxy A52 4/128GB White (SM-A525FZWDSEK)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/5/4/546456456456456.jpg</image>
+		<price>9 999  ₴ </price>
+	</product>
+	<product>
+		<description>Samsung Galaxy A51 6/128GB Black(SM-A515FZKWSEK)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/f/i/file_1493.jpg</image>
+		<price>7 499  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Redmi Note 10 Pro 6/64 Onyx Gray</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/0/_/0_59_13_1_1.jpg</image>
+		<price>8 399  ₴ </price>
+	</product>
+	<product>
+		<description>Samsung Galaxy A32 4/64GB Black (SM-A325FZKDSEK)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/3/4/345345345345_3.jpg</image>
+		<price>6 599  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/256 Cosmic Black (MZB08VGEU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/1/11111k11_black___5g_1.jpg</image>
+		<price>20 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Redmi Note 9 Pro 6/128GB Tropical Green</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/j/6/j691d6_1__2_1.jpg</image>
+		<price>7 799  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11 Lite 5G 8/128GB Truffle Black</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/5/6/567567567_5.jpg</image>
+		<price>12 999  ₴ </price>
+	</product>
+	<product>
+		<description>Samsung Galaxy M12 4/64 Light Blue (SM-M127FLBVSEK)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/6/7/6745634547567567.jpg</image>
+		<price>4 999  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 12 128GB Purple (MJNP3)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/w/w/wwru_iphone12mini_q321_purple_pdp-image-1b_result_1_1_1.jpg</image>
+		<price>30 199  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 12 64GB Purple (MJNM3)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/w/w/wwru_iphone12mini_q321_purple_pdp-image-1b_result_1_1_1_1_1.jpg</image>
+		<price>28 199  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 12 mini 256GB Purple (MJQH3)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/w/w/wwru_iphone12mini_q321_purple_pdp-image-1b_result_1_1_1_1_1_1_1.jpg</image>
+		<price>29 999  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 12 mini 128GB Purple (MJQG3)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/w/w/wwru_iphone12mini_q321_purple_pdp-image-1b_result_1_1_1_1_1_1_1_1_1.jpg</image>
+		<price>26 399  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 12 mini 64GB Purple (MJQF3)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/w/w/wwru_iphone12mini_q321_purple_pdp-image-1b_result_1_1_1_1_1_1_1_1_1_1_1.jpg</image>
+		<price>24 399  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/256 Celestial Silver (MZB08VKEU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/1/111k11_silver___5g_1.jpg</image>
+		<price>20 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/128 Celestial Silver (MZB08VJEU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/1/111k11_silver___5g.jpg</image>
+		<price>18 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/128 Frosty White (MZB08VHEU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/2/12k11_white___5g_1.jpg</image>
+		<price>18 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/256 Frosty White (MZB08VIEU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/2/12k11_white___5g.jpg</image>
+		<price>20 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/256 Cosmic Black (MZB08VGEU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/1/11111k11_black___5g_1.jpg</image>
+		<price>20 999  ₴ </price>
+	</product>
+	<product>
+		<description>Xiaomi Mi 11i 8/128 Cosmic Black (MZB0893EU)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/1/1/11111k11_black___5g.jpg</image>
+		<price>18 999  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 6 16GB space gray</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_iphone_6_grey_space_2_2_1_1_1_1_1.jpg</image>
+		<price>3 399  ₴ </price>
+	</product>
+	<product>
+		<description>Huawei P Smart 2019 3/64 GB Midnight Black (Чорний)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/b/l/black_38_1_1.jpg</image>
+		<price>2 799  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 8 64GB Space Gray (MQ6G2)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_iphone_8_64gb_mq6g2_space_grey_6_3_1.jpg</image>
+		<price>7 499  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 7 128GB Black &quot;Як Новий&quot;</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/import/24404111742781.jpg</image>
+		<price>7 499  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 8 64GB Gold (MQ6J2)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/3/_/3_306_19_1_1_2_1_1_4_1.jpg</image>
+		<price>7 499  ₴ </price>
+	</product>
+	<product>
+		<description>Ulefone Power 6 Black</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/h/t/htb1l.cscvwg3kvjszfgq6ztspxad_1_1.jpg</image>
+		<price>4 399  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone SE 32GB Space Gray</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/3/0/30638fabe895b38514ff6f8de6e255c9_1_1.jpg</image>
+		<price>2 999  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 7 32GB Black (MN8X2)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_iphone_7_black_5_3_2_2.jpg</image>
+		<price>6 499  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 7 32GB Rose Gold</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/import/24404191742782.jpg</image>
+		<price>6 499  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 7 32GB Silver (MN8Y2)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_iphone_7_silver_0_3_1_1.jpg</image>
+		<price>6 499  ₴ </price>
+	</product>
+	<product>
+		<description>Apple iPhone 8 256GB Gold</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/3/_/3_306_18_1_1.jpg</image>
+		<price>8 999  ₴ </price>
+	</product>
+	<product>
+		<description>Huawei Y7 2019 3/32 GB Aurora Blue (Синій)</description>
+		<image>https://i.allo.ua/media/catalog/product/cache/3/small_image/212x184/9df78eab33525d08d6e5fb8d27136e95/y/_/y_7_blue__1.jpg</image>
+		<price>2 799  ₴ </price>
+	</product>
+</root>
